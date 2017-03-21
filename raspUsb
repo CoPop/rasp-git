@@ -6,7 +6,7 @@ Check to make sure your SD card partitions are right for this example:
 ```
 $ lsblk
 ```
-NAME        MAJ:MIN RM  SIZE RO TYPE MOUNTPOINT
+NAME        MAJ:MIN RM  SIZE RO TYPE MOUNTPOINT 
 mmcblk0     179:0    0  7.4G  0 disk 
 ├─mmcblk0p1 179:1    0  2.3G  0 part 
 ├─mmcblk0p2 179:2    0    1K  0 part 
